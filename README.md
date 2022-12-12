@@ -4,7 +4,7 @@ This project was created with Java using Spring Boot framework.
 
 # Functionality of the Password Manager
 
-In tise project, we have :
+In this project, we have :
 
 ### `Register`
 We are able to register users to this password manager.
