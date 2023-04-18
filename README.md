@@ -19,4 +19,4 @@ We are able to obtain and edit user profile info.
 We are able to store,retrieve,edit and delete user's passwords.
 
 
-**Note: Passwords are sensitive information and user's login auth information has been stored in hashed formats to avoid misuse and additional security will be implemented during transfer of user's stored passwords.
+**Note: Passwords are sensitive information and user's login auth information has been stored in hashed formats to avoid misuse.
